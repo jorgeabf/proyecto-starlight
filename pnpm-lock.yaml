@@ -6,19 +6,19 @@ settings:
 
 dependencies:
   '@astrojs/check':
-    specifier: ^0.5.9
+    specifier: 0.5.9
     version: 0.5.9(typescript@5.4.2)
   '@astrojs/starlight':
-    specifier: ^0.21.1
+    specifier: 0.21.1
     version: 0.21.1(astro@4.5.5)
   astro:
-    specifier: ^4.5.5
+    specifier: 4.5.5
     version: 4.5.5(typescript@5.4.2)
   sharp:
-    specifier: ^0.33.2
+    specifier: 0.33.2
     version: 0.33.2
   typescript:
-    specifier: ^5.4.2
+    specifier: 5.4.2
     version: 5.4.2
 
 packages:
